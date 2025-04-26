@@ -1,4 +1,4 @@
-# Ex7 Priority Queue
+# Ex 2B Priority Queue
 ## DATE:03.03-2025
 ## AIM:
 To formulate the C code to display the elements of the priority queue after insertion and deletion operation.
